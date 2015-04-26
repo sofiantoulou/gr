@@ -16,15 +16,15 @@
     url: "/chapter/tools/"
 
 - title: ΒΙΒΛΙΟ
-  url: "/download/"
+#  url: "/download/"
   side: left
   dropdown:
   - title: PDF
     url: "/download/pi.pdf"
   - title: "EPUB"
     url: "/download/pi.epub"
-  - title: "Mobi"
-    url: "/mobi/"
+#  - title: "Mobi"
+#    url: "/mobi/"
 
 - title: Blog
   url: "/blog/"
