@@ -6,14 +6,18 @@
   url: "/chapters/"
   side: left
   dropdown:
+  - title: "ΠΡΟΛΟΓΟΣ"
+    url: "/preface/"
+  - title: "ΕΙΣΑΓΩΓΗ"
+    url: "/intro/"
   - title: "ΟΡΙΣΜΟΣ"
-    url: "/chapters/definition/"
+    url: "/definition/"
   - title: "ΜΕΘΟΔΟΣ"
-    url: "/chapters/method/"
+    url: "/method/"
   - title: "ΑΡΧΕΤΥΠΑ"
-    url: "/chapters/archetypes/"
+    url: "/archetypes/"
   - title: "ΕΡΓΑΛΕΙΑ"
-    url: "/chapter/tools/"
+    url: "/tools/"
 
 - title: ΒΙΒΛΙΟ
 #  url: "/download/"
