@@ -1,9 +1,5 @@
-- title: Start
+- title: Αρχική
   url: "/"
-  side: left
-
-- title: Getting Started
-  url: "/getting-started/"
   side: left
 
 - title: "Κεφάλαια"
@@ -18,17 +14,17 @@
     url: "/chapters/archetypes/"
   - title: "Εργαλεία"
     url: "/chapter/tools/"
-  
-- title: Documentation
-  url: "/documentation/"
+
+- title: Κατέβασμα
+  url: "/download/"
   side: left
   dropdown:
-  - title: Documentation
-    url: "/documentation/"
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: PDF
+    url: "/pdf/"
+  - title: "EPUB"
+    url: "/epub/"
+  - title: "Mobi"
+    url: "/mobi/"
 
 - title: Blog
   url: "/blog/"
