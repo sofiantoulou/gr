@@ -6,13 +6,13 @@
   url: "/chapters/"
   side: left
   dropdown:
-  - title: "Ορισμός"
+  - title: "ΟΡΙΣΜΟΣ"
     url: "/chapters/definition/"
-  - title: "Μέθοδος"
+  - title: "ΜΕΘΟΔΟΣ"
     url: "/chapters/method/"
-  - title: "Αρχέτυπα"
+  - title: "ΑΡΧΕΤΥΠΑ"
     url: "/chapters/archetypes/"
-  - title: "Εργαλεία"
+  - title: "ΕΡΓΑΛΕΙΑ"
     url: "/chapter/tools/"
 
 - title: ΒΙΒΛΙΟ
