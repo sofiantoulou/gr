@@ -20,9 +20,9 @@
   side: left
   dropdown:
   - title: PDF
-    url: "/pdf/"
+    url: "/download/pi.pdf"
   - title: "EPUB"
-    url: "/epub/"
+    url: "/download/pi.epub"
   - title: "Mobi"
     url: "/mobi/"
 
