@@ -12,7 +12,7 @@ widget-2:
     title: "Εικόνες"
     url: 'http://www.pibook.gr/gallery/'
     text: 'Εικόνες'
-    image:
+    image: unsplash_1-303x182.jpg
 widget-3:
     title: "Συμμετοχή"
     url: 'http://github.com/pibook/gr'
