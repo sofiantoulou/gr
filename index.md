@@ -2,7 +2,7 @@
 layout: frontpage
 title: "Ο Προγραμματισμός της Διάδρασης: Από τον Επιτραπέζιο στον Κινητό και Διάχυτο Υπολογισμό"
 header:
-   image_fullwidth: ""
+   image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "Blog"
     url: 'http://www.pibook.gr/blog/'
