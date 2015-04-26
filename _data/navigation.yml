@@ -1,8 +1,8 @@
-- title: Αρχική
+- title: ΑΡΧΙΚΗ
   url: "/"
   side: left
 
-- title: "Κεφάλαια"
+- title: "ΚΕΦΑΛΑΙΑ"
   url: "/chapters/"
   side: left
   dropdown:
@@ -15,7 +15,7 @@
   - title: "Εργαλεία"
     url: "/chapter/tools/"
 
-- title: Κατέβασμα
+- title: ΒΙΒΛΙΟ
   url: "/download/"
   side: left
   dropdown:
