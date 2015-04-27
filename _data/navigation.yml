@@ -3,7 +3,7 @@
   side: left
 
 - title: "ΚΕΦΑΛΑΙΑ"
-  url: "/chapters/"
+  url: ""
   side: left
   dropdown:
   - title: "ΠΡΟΛΟΓΟΣ"
@@ -20,15 +20,13 @@
     url: "/tools/"
 
 - title: ΒΙΒΛΙΟ
-#  url: "/download/"
+  url: ""
   side: left
   dropdown:
   - title: PDF
     url: "/download/pi.pdf"
   - title: "EPUB"
     url: "/download/pi.epub"
-#  - title: "Mobi"
-#    url: "/mobi/"
 
 - title: "ΕΙΚΟΝΕΣ"
   url: "/search/"
