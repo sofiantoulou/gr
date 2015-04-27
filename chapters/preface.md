@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Πρόλογος"
-subheadline: "Preface"
-teaser: "Preface"
+title: ""
+subheadline: ""
+teaser: ""
 header:
    image_fullwidth: ""
 permalink: "/preface/"

@@ -5,7 +5,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: ""
-permalink: "/intro/"
+permalink: "/archetypes/"
 ---
 
-{% include_relative pi-intro.md %}
+{% include_relative pi-ch03.md %}
