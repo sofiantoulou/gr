@@ -30,6 +30,10 @@
 #  - title: "Mobi"
 #    url: "/mobi/"
 
+- title: "ΕΙΚΟΝΕΣ"
+  url: "/search/"
+  side: left
+
 - title: Blog
   url: "/blog/"
   side: left
@@ -39,7 +43,7 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "ΑΝΑΖΗΤΗΣΗ"
   url: "/search/"
   side: right
 
