@@ -29,7 +29,7 @@
     url: "/download/pi.epub"
 
 - title: "ΕΙΚΟΝΕΣ"
-  url: "/search/"
+  url: "/gallery/"
   side: left
 
 - title: Blog

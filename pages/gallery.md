@@ -2,7 +2,7 @@
 layout: page
 subheadline: ""
 title:  "Εικόνες"
-permanlink: "/gallery"
+permanlink: "/gallery/"
 teaser: ""
 image:
    thumb: "unsplash_7_thumb.jpg"

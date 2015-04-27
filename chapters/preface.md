@@ -8,4 +8,4 @@ header:
 permalink: "/preface/"
 ---
 
-{% include_relative ../chapters/pi-pre.md %}
+{% include_relative pi-pre.md %}

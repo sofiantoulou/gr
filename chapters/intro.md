@@ -8,4 +8,4 @@ header:
 permalink: "/intro/"
 ---
 
-{% include_relative ../chapters/pi-intro.md %}
+{% include_relative pi-intro.md %}
