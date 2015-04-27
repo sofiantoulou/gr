@@ -4,7 +4,7 @@ title: "ΣΧΕΤΙΚΑ"
 subheadline: ""
 show_meta: false
 teaser: ""
-permalink: "/about/"
+permalink: "/info/"
 header:
     image_fullwidth: ""
 ---
