@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
+title: "ΣΧΕΤΙΚΑ"
+subheadline: ""
 show_meta: false
 teaser: ""
-permalink: "/info/"
+permalink: "/about/"
 header:
     image_fullwidth: ""
 ---

@@ -6,16 +6,16 @@ header:
 widget-1:
     title: "Blog"
     url: 'http://www.pibook.gr/blog/'
-    text: 'blog'
+    text: ''
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Εικόνες"
     url: 'http://www.pibook.gr/gallery/'
-    text: 'Εικόνες'
+    text: ''
     image: unsplash_1-303x182.jpg
 widget-3:
     title: "Συμμετοχή"
     url: 'http://github.com/pibook/gr'
-    text: 'Βιβλίο'
+    text: ''
     image: github-303x182.jpg
 ---

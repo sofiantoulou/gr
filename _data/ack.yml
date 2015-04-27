@@ -1,0 +1,21 @@
+- menu_name: "ΕΥΧΑΡΙΣΤΙΕΣ"
+
+- name: "Kallipos"
+  url: "http://www.kallipos.gr/"
+  class: "services-newsletter"
+  title: "Kallipos"
+
+- name: "Github Pages"
+  url: "http://pages.github.com/"
+  class: "sitemap-link"
+  title: "Github Pages"
+
+- name: "Feeling Responsive Theme"
+  url: "http://phlow.github.io/feeling-responsive/"
+  class: "network-entypo"
+  title: "Feeling Responsive Theme"
+
+- name: "Images by Unsplash"
+  url: "http://unsplash.com/"
+  class: "rss-link"
+  title: "Images by Unsplash"
