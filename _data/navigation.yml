@@ -41,8 +41,8 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "ΑΝΑΖΗΤΗΣΗ"
-  url: "/search/"
+- title: "ΣΥΜΜΕΤΟΧΗ"
+  url: "/git/"
   side: right
 
 - title: "Contact"
