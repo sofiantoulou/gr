@@ -9,3 +9,5 @@ permalink: "/method/"
 ---
 
 {% include_relative pi-ch02.md %}
+
+{% include license.html %}

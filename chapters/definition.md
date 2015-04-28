@@ -9,3 +9,5 @@ permalink: "/definition/"
 ---
 
 {% include_relative pi-ch01.md %}
+
+{% include license.html %}

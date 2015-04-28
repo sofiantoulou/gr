@@ -9,3 +9,5 @@ permalink: "/preface/"
 ---
 
 {% include_relative pi-pre.md %}
+
+{% include license.html %}

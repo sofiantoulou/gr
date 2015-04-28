@@ -9,3 +9,5 @@ permalink: "/archetypes/"
 ---
 
 {% include_relative pi-ch03.md %}
+
+{% include license.html %}
