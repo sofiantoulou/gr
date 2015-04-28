@@ -8,3 +8,9 @@ permalink: "/info/"
 header:
     image_fullwidth: ""
 ---
+
+To έργο αυτό έλαβε οικονομική βοήθεια από τις παρακάτω πηγές:
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Άδεια Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Το έργο με τίτλο <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ο Προγραμματισμός της Διάδρασης</span> από τον δημιουργό<a xmlns:cc="http://creativecommons.org/ns#" href="www.epidro.me" property="cc:attributionName" rel="cc:attributionURL">Κωνσταντίνος Χωριανόπουλος</a> διατίθεται με την άδεια <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 4.0 Διεθνές </a>.<br />Βασισμένο σε έργο στο <a xmlns:dct="http://purl.org/dc/terms/" href="www.pibook.gr" rel="dct:source">www.pibook.gr</a>.<br />Παροχή δικαιωμάτων πέρα από τα πλαίσια αυτής της άδειας μπορεί να είναι διαθέσιμη στο<a xmlns:cc="http://creativecommons.org/ns#" href="www.pibook.gr/git" rel="cc:morePermissions">www.pibook.gr/git</a>.
