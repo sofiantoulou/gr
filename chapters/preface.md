@@ -1,11 +1,9 @@
 ---
 layout: page
-title: ""
-subheadline: ""
-teaser: ""
 header:
    image_fullwidth: ""
 permalink: "/preface/"
+show_meta: false
 ---
 
 {% include_relative pi-pre.md %}
