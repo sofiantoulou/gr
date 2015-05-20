@@ -18,7 +18,9 @@
     url: "/archetypes/"
   - title: "ΕΡΓΑΛΕΙΑ"
     url: "/tools/"
-
+  - title: "ΜΟΝΤΕΛΑ"
+    url: "/models/"
+    
 - title: ΒΙΒΛΙΟ
   url: ""
   side: left
