@@ -20,7 +20,13 @@
     url: "/tools/"
   - title: "ΜΟΝΤΕΛΑ"
     url: "/models/"
-    
+  - title: "ΣΥΝΘΕΣΗ"
+    url: "/synthesis/"
+  - title: "ΦΟΡΜΕΣ"
+    url: "/forms/"
+  - title: "ΜΗΧΑΝΙΚΗ"
+    url: "/engineering/"
+
 - title: ΒΙΒΛΙΟ
   url: ""
   side: left
