@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Αδεια χρήσης"
-subheadline:  "ΣΥΜΒΟΛΑΙΑ"
+subheadline:  "Συμβόλαια"
 teaser: "Η Δράση Κάλλιπος βασίζεται σε συμβόλαια χρήσης που είναι πολύ ευέλικτα"
 categories:
     - kallipos
