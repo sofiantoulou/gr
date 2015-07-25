@@ -1,3 +1,5 @@
+"Leonardo could not invent a single engine for any of his vehicles. Maybe the smartest person of his time, but he was born in the wrong time. His IQ could not transcend his time.", Alan Kay.
+
 # Αρχέτυπα
 
 Σε αυτό το τμήμα μελετάμε τις ιδιότητες του υπολογιστή που επιτρέπουν την διάδραση με τον άνθρωπο. Εδώ εστιάζουμε την προσοχή μας στις ιδιότητες του υπολογιστή και ειδικά στα συστήματα εισόδου και εξόδου. Τα παραδοσιακά συστημάτα εισόδου και εξόδου είναι το πληκτρολόγιο και το ποντίκι, αλλά τα κινητά και διάχυτα συστήματα εισόδου και εξόδου έχουν πολύ περισσοτέρες σε αριθμό και είδος συσκευές διάδρασης με τον χρήστη, όπως τον εντοπισμό γεωγραφικής θέσης, την αφή, την κάμερα, κτλ.
@@ -173,8 +175,6 @@ Banzi, M. (2009). Getting Started with arduino. O'Reilly Media, Inc..
 Card, S. K., English, W. K., & Burr, B. J. (1978). Evaluation of mouse, rate-controlled isometric joystick, step keys, and text keys for text selection on a CRT. Ergonomics, 21(8), 601-613.
 
 Cassell, J. (Ed.). (2000). Embodied conversational agents. MIT press.
-
-<!-- Ken Hinckley, Koji Yatani, Michel Pahud, Nicole Coddington, Jenny Rodenhouse, Andy Wilson, Hrvoje Benko, and Bill Buxton. 2010. Pen + touch = new tools. In Proceedings of the 23nd annual ACM symposium on User interface software and technology (UIST '10). ACM, New York, NY, USA, 27-36. DOI=10.1145/1866029.1866036 http://doi.acm.org/10.1145/1866029.1866036 -->
 
 Igoe, T. (2007). Making things talk: practical methods for connecting physical objects. O'reilly.
 

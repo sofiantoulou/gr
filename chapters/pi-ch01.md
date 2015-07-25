@@ -1,8 +1,6 @@
-
+"Programming is a way of thinking, not a rote skill. Learning about "for" loops is not learning to program, any more than learning about pencils is learning to draw.", Bret Victor
 
 # Ορισμός
-
-"Programming is a way of thinking, not a rote skill. Learning about "for" loops is not learning to program, any more than learning about pencils is learning to draw.", Bret Victor
 
 Η σημασία της διάδρασης του ανθρώπου με μηχανές φαίνεται από την καθιέρωση των υπολογιστικών διεπαφών στις περισσότερες ανθρώπινες δραστηριότητες, από την εργασία, μέχρι την εκπαίδευση και την διασκέδαση. Ο προγραμματισμός της διάδρασης που απαιτείται για την κατασκευή άρτιων διαδραστικών συστημάτων είναι μια σύνθετη έννοια και διαδικασία που απαιτεί δεξιότητες τόσο τεχνολογικές όσο και ανθρωπιστικές. Αν και υπάρχουν πολλοί ικανοί κατασκευαστές συστημάτων, αλλά και γνώστες της ανθρώπινης φύσης και δεξιοτήτων, ο γόνιμος συνδυασμός τους είναι πολύ σπάνιος, και αυτό κυρίως γιατί δεν είναι εύκολο να σκεφτόμαστε σε δύο ανεξάρτητες και πολύ διαφορετικές διαστάσεις (μηχανή, άνθρωπος).
 
@@ -153,6 +151,8 @@ Graham, P. (2004). Hackers and Painters: Big Ideas from the Computer Age. O'Reil
 Johnson, J., Roberts, T. L., Verplank, W., Smith, D. C., Irby, C. H., Beard, M., & Mackey, K. (1989). The xerox star: A retrospective. Computer, 22(9), 11-26.
 
 Guzdial, M.J., Ericson, B. (2013). Introduction to Computing and Programming in Python, 3rd edition, Prentice Hall
+
+Lanier, J. (2014). Who owns the future?. Simon and Schuster.
 
 Malone, T. W. (1982, March). Heuristics for designing enjoyable user interfaces: Lessons from computer games. In Proceedings of the 1982 conference on Human factors in computing systems (pp. 63-68). ACM.
 

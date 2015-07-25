@@ -1,7 +1,6 @@
-# Μέθοδος
-
-
 "Getting the design right and the right design", Bill Buxton
+
+# Μέθοδος
 
 Η ανθρωποκεντρική σχεδίαση έχει στόχο την σχεδίαση και βελτίωση των συστημάτων διάδρασης ανθρώπου-υπολογιστή. Οι περισσότερες τεχνικές και κυρίως η πρακτική εφαρμογή τους δίνουν έμφαση στην βελτίωση συστημάτων που υπάρχουν ή συστημάτων που βρίσκονται στο στάδιο της σχεδίασης. Η βελτιστοποίηση ενός συστήματος είναι ένα σημαντικό θέμα, αλλά δεν είναι τόσο σημαντικό όσο να αποκτήσουμετην αυτοπεποιθηση της καταλληλότητας των προδιαγραφών του. Για αυτόν τον σκοπό, τόσο αυτό το κεφάλαιο όσο και τα υπόλοιπα κεφάλαια του βιβλίου εστιάζουν περισσότερο στον επανάληψη των βημάτων, παρά στα βήματα που συνιστούν τον κύκλο της ανθρωποκεντρικής σχεδίασης.
 
@@ -148,10 +147,7 @@ H διαδικασία της κατασκευής της διάδρασης ε�
 
 Τελικά, ο στόχος της ανθρωποκεντρικής κατασκευής συστημάτων είναι να βρούμε μια ισσοροπία ανάμεσα σε όλες τις δυνάμεις που επηρεάζουν την σχεδίαση, την κατασκευή, την διανομή, και την χρήση των συσκευών διάδρασης.
 
-norman: the design of everyday things?
 
-<!--
-Hilary Hutchinson, Wendy Mackay, Bo Westerlund, Benjamin B. Bederson, Allison Druin, Catherine Plaisant, Michel Beaudouin-Lafon, Stéphane Conversy, Helen Evans, Heiko Hansen, Nicolas Roussel, and Björn Eiderbäck. 2003. Technology probes: inspiring design for and with families. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '03). ACM, New York, NY, USA, 17-24. DOI=10.1145/642611.642616 http://doi.acm.org/10.1145/642611.642616 -->
 
 # Σχετική βιβλιογραφία
 
@@ -168,6 +164,8 @@ Moggridge, B. (2007). Designing interactions. Cambridge: MIT press.
 Norman, D. A. (2002). The design of everyday things. Basic books.
 
 Pruitt, J., & Grudin, J. (2003, June). Personas: practice and theory. In Proceedings of the 2003 conference on Designing for user experiences (pp. 1-15). ACM.
+
+Thackara, J. (2006). In the bubble: designing in a complex world. MIT press.
 
 Winograd, T. (1996). Bringing Design to Software. ACM, New York, NY, USA.
 
