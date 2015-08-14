@@ -6,6 +6,6 @@ permalink: "/synthesis/"
 show_meta: false
 ---
 
-coming soon...
+{% include_relative pi-ch06.md %}
 
 {% include license.html %}
