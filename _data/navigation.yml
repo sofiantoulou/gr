@@ -28,7 +28,7 @@
     url: "/technology/"
 
 - title: ΒΙΒΛΙΟ
-  url: ""
+  url: "/book/"
   side: left
   dropdown:
   - title: PDF
