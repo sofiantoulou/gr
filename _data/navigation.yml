@@ -36,10 +36,6 @@
   - title: "EPUB"
     url: "/download/pi.epub"
 
-- title: "ΕΙΚΟΝΕΣ"
-  url: "/gallery/"
-  side: left
-
 - title: Blog
   url: "/blog/"
   side: left
