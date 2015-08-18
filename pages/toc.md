@@ -9,27 +9,24 @@ header:
     image_fullwidth: ""
 ---
 
-Πίνακας Περιεχομένων
-
-[ΠΡΟΛΟΓΟΣ](/preface/)
+[Πρόλογος](/preface/)
   
-- title: "ΕΙΣΑΓΩΓΗ"
-    url: "/intro/"
-  - title: "ΟΡΙΣΜΟΣ"
-    url: "/definition/"
-  - title: "ΜΕΘΟΔΟΣ"
-    url: "/method/"
-  - title: "ΑΡΧΕΤΥΠΑ"
-    url: "/archetypes/"
-  - title: "ΕΡΓΑΛΕΙΑ"
-    url: "/tools/"
-  - title: "ΜΟΝΤΕΛΑ"
-    url: "/models/"
-  - title: "ΣΥΝΘΕΣΗ"
-    url: "/synthesis/"
-  - title: "ΜΟΡΦΕΣ"
-    url: "/forms/"
-  - title: "ΤΕΧΝΟΛΟΓΙΑ"
-    url: "/technology/"
+[Εισαγωγή](/intro/)
+
+[Ορισμός](/definition/)
+
+[Μέθοδος](/method/)
+
+[Αρχέτυπα](/archetypes/)
+
+[Εργαλεία](/tools/)
+
+[Μοντέλα](/models/)
+
+[Σύνθεση](/synthesis/)
+
+[Μορφές](/forms/)
+
+[Τεχνολογία](/technology/)
 
 {% include license.html %}
