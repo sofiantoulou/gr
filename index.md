@@ -4,9 +4,9 @@ title: "Ο Προγραμματισμός της Διάδρασης: Από το
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Blog"
-    url: 'http://www.pibook.gr/blog/'
-    text: 'Τελευταίες ενημερώσεις'
+    title: "Κεφάλαια"
+    url: 'http://www.pibook.gr/toc/'
+    text: 'Πίνακας Περιεχομένων'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Βιβλίο"
