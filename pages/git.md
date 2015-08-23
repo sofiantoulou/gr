@@ -9,7 +9,7 @@ header:
     image_fullwidth: ""
 ---
 
-Το βιβλίο είναι αποθηκευμένο στο σύστημα του [github](http://www.github.com). Ο καλύτερος τρόπος για να βελτιώσετε το βιβλίο είναι να κάνετε [fork](https://guides.github.com/activities/forking/), να κάνετε τις αλλαγές που θέλετε, και να κάνετε ένα [pull request](https://guides.github.com/activities/hello-world/#pr).
+Το βιβλίο είναι αποθηκευμένο στο σύστημα του [github](http://www.github.com). Ο καλύτερος τρόπος για να βελτιώσετε το βιβλίο είναι να κάνετε [fork](https://guides.github.com/activities/forking/), να κάνετε τις [αλλαγές και διορθώσεις](https://guides.github.com/introduction/flow/) που θέλετε, και να κάνετε ένα [pull request](https://guides.github.com/activities/hello-world/#pr).
 
 [Τα πηγαία αρχεία για το βιβλίο και για το website είναι ελεύθερα διαθέσιμα.](https://github.com/pibook/gr)
 
