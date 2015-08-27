@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header-1.jpg"
 permalink: "/preface/"
 show_meta: false
 ---

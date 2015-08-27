@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-   image_fullwidth: "header00.jpg"
+   image_fullwidth: "header0.jpg"
 permalink: "/intro/"
 show_meta: false
 ---
