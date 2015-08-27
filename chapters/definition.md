@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header1.jpg"
 permalink: "/definition/"
 show_meta: false
 ---
