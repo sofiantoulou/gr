@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "header6.jpg"
 permalink: "/synthesis/"
 show_meta: false
 ---
