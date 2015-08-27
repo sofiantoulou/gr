@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-   image_fullwidth: ""
+   image_fullwidth: "header_unsplash_12.jpg"
 permalink: "/models/"
 show_meta: false
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
 header:
-   image_fullwidth: ""
-permalink: "/engineering/"
+   image_fullwidth: "header_unsplash_12.jpg"
+permalink: "/technology/"
 show_meta: false
 ---
 
