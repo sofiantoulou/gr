@@ -16,6 +16,6 @@ widget-2:
 widget-3:
     title: "Συμμετοχή"
     url: 'http://www.pibook.gr/git/'
-    text: ''
+    text: 'Κάντε βελτιώσεις'
     image: github-303x182.jpg
 ---
