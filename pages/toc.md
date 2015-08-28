@@ -6,11 +6,11 @@ show_meta: false
 teaser: ""
 permalink: "/toc/"
 header:
-    image_fullwidth: ""
+    image_fullwidth: "header-toc.jpg"
 ---
 
 [Πρόλογος](/preface/)
-  
+
 [Εισαγωγή](/intro/)
 
 [Ορισμός](/definition/)
