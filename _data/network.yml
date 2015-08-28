@@ -15,7 +15,7 @@
   class: "network-entypo"
   title: "Feeling Responsive Theme"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
+- name: "Περισσότερες ευχαριστίες"
+  url: "/credits/"
   class: "rss-link"
   title: "Images by Unsplash"
