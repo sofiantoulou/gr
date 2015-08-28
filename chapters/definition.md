@@ -11,7 +11,6 @@ show_meta: false
 
 <div class="panel radius" markdown="1">
 {: #toc }
-*  TOC
 {:toc}
 </div>
 
