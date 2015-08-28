@@ -6,7 +6,6 @@ permalink: "/definition/"
 show_meta: false
 ---
 
-### Table of Contents
 *  Auto generated table of contents
 {:toc}
 
