@@ -1,6 +1,7 @@
 ---
 layout: page
 header:
+   title: Ο Προγραμματισμός της Διάδρασης
    image_fullwidth: "header-1.jpg"
 permalink: "/preface/"
 show_meta: false
