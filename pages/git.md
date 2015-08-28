@@ -6,7 +6,7 @@ show_meta: false
 teaser: ""
 permalink: "/git/"
 header:
-    image_fullwidth: ""
+    image_fullwidth: "git.jpg"
 ---
 
 Το βιβλίο είναι αποθηκευμένο στο σύστημα του [github](http://www.github.com). Ο καλύτερος τρόπος για να βελτιώσετε το βιβλίο είναι να [δημιουργήσετε ένα νέο αντίγραφο](https://guides.github.com/activities/forking/), να κάνετε τις [αλλαγές και διορθώσεις](https://guides.github.com/introduction/flow/) που θέλετε, και να κάνετε ένα [αίτημα ενσωμάτωσης](https://guides.github.com/activities/hello-world/#pr).
