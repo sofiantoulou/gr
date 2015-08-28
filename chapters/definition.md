@@ -20,6 +20,8 @@ show_meta: false
 
 {% include_relative pi-ch01.md %}
 
+{% include_relative mi-ch01.md %}
+
 {% include license.html %}
 
 </div><!-- /.medium-8.columns -->

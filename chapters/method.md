@@ -8,4 +8,6 @@ show_meta: false
 
 {% include_relative pi-ch02.md %}
 
+{% include_relative pi-ch01.md %}
+
 {% include license.html %}
