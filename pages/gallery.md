@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Gallery"
-permanlink: "/gallery/"
+permalink: "/gallery/"
 
 ---
 
