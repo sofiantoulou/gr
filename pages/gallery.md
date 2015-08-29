@@ -1,11 +1,8 @@
 ---
 layout: page
-subheadline: ""
-title:  "Εικόνες"
+title:  "Gallery"
 permanlink: "/gallery/"
-teaser: ""
-image:
-   thumb: "unsplash_7_thumb.jpg"
+
 ---
 
 <ul class="clearing-thumbs small-block-grid-3" data-clearing>
