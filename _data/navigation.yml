@@ -35,6 +35,8 @@
     url: "/download/pi.pdf"
   - title: "EPUB"
     url: "/download/pi.epub"
+  - title: Gallery
+    url: "/gallery/"    
 
 - title: Blog
   url: "/blog/"
