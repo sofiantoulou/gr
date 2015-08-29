@@ -31,11 +31,11 @@
   url: "/book/"
   side: left
   dropdown:
-  - title: PDF
+  - title: "PDF"
     url: "/download/pi.pdf"
   - title: "EPUB"
     url: "/download/pi.epub"
-  - title: Gallery
+  - title: "Gallery"
     url: "/gallery/"    
 
 - title: Blog
