@@ -1,8 +1,5 @@
-Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και στον διάχυτο υπολογιστή
 
 # Πρόλογος
-
-"Software is easy to make, except when you want it to do something new, but the catch is that the only software worth making is software that does something new." Scott Rosenberg
 
 "Το λογισμικό είναι εύκολο να γίνει, εκτός αν θες να κάνεις κάτι νέο, αλλά η παγίδα είναι πως το μόνο λογισμικό που αξίζει να φτιάξει κανείς είναι αυτό που κάνει κάτι νέο. "
   --Scott Rosenberg
