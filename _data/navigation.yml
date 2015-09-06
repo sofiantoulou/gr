@@ -32,9 +32,11 @@
   side: left
   dropdown:
   - title: "PDF"
-    url: "/download/pi.pdf"
+    url: "/download/pibook.pdf"
   - title: "EPUB"
-    url: "/download/pi.epub"
+    url: "/download/pibook.epub"
+  - title: "MOBI"
+    url: "/download/pibook.mobi"
   - title: "Gallery"
     url: "/gallery/"
 
