@@ -6,6 +6,6 @@ permalink: "/models/"
 show_meta: false
 ---
 
-coming soon..
+{% include_relative pi-ch05.md %}
 
 {% include license.html %}
